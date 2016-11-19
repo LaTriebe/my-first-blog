@@ -25,7 +25,7 @@ SECRET_KEY = '6x=(jsot$1!@1b(bge2+xo368p!9@-m8$dp)f9a1t(1n$=cble'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lariviera.pythonanywhere.com']
 
 
 # Application definition
